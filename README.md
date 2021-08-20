@@ -4,5 +4,8 @@
 2. Place the style.css file in a folder "css" to organize your file structure
 3. Once you through with you assessment push your solution in your personal github profile and be guided on what to submit given on the LMS.
 
+Output:
+
+![alt text](http://url/to/img.png)
 
 Good luck and God Speed everyone!
