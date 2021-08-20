@@ -6,6 +6,6 @@
 
 Output:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/cfbautistaofficial01/Assessment/blob/main/assessment_output.png)
 
 Good luck and God Speed everyone!
